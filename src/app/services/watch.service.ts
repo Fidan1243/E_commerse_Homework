@@ -17,11 +17,11 @@ export class WatchService{
             
             newUrl+='?categoryId='+categoryId;
         }
-        else if(colorId){
+        if(colorId){
 
             newUrl+='?colorId='+colorId;
         }
-        else if(brandId){
+        if(brandId){
 
             newUrl+='?brandId='+brandId;
         }
