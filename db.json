@@ -1,0 +1,90 @@
+{
+    "watches":[
+        {
+            "id": 1,
+            "name": "Gentleman ",
+            "description": "The Tissot Gentleman is a multi-purpose watch, both ergonomic and elegant in any circumstance. It is equally suitable for wearing in a business environment, where conventional dress codes apply, as at the weekend, when it adapts easily to leisure activities.",
+            "imageUrl": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T127.410.16.051.00_R_1.png?im=Resize=(850,850),aspect=fill;Crop=(0,0,850,850),gravity=Center",
+            "price": 350,
+            "colorId": 1,
+            "brandId":2,
+            "categoryId":1
+          },
+          {
+            "id": 2,
+            "name": "PR 100 Chonograph",
+            "description": "The Tissot Gentleman is a multi-purpose watch, both ergonomic and elegant in any circumstance. It is equally suitable for wearing in a business environment, where conventional dress codes apply, as at the weekend, when it adapts easily to leisure activities.",
+            "imageUrl": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T101.417.11.051.00_R_1.png?im=Resize=(850,850),aspect=fill;Crop=(0,0,850,850),gravity=Center",
+            "price": 495,
+            "colorId": 2,
+            "brandId":2,
+            "categoryId":1
+          },
+          {
+            "id": 3,
+            "name": "Lovely Square",
+            "description": "A tribute to the small Tissot ladies' watches of the 1960s, the Tissot Lovely Square is an utterly feminine creation, calibrated for the finest wrists. With delicate 2 x 2 cm dimensions, it is nonetheless bold in its square design, and its satin-smooth case glimmers whatever the season.",
+            "imageUrl": "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/0/T058.109.36.031.00_R_1.png?im=Resize=(850,850),aspect=fill;Crop=(0,0,850,850),gravity=Center",
+            "price": 325,
+            "colorId": 3,
+            "brandId":2,
+            "categoryId":2
+          },
+          {
+            "id": 4,
+            "name": "Day-Date 36",
+            "description": "Its dial features diamonds in 18 ct gold settings and baguette-cut diamonds at 6 and 9 o'clock. The Day-Date was the first watch to indicate the day of the week spelt out in full when it was first presented in 1956.",
+            "imageUrl": "https://content.rolex.com/dam/2022/upright-bba-with-shadow/m128345rbr-0052.png?impolicy=v6-upright&imwidth=420",
+            "price": 600,
+            "colorId": 4,
+            "brandId":1,
+            "categoryId":3
+          },
+          {
+            "id": 5,
+            "name": "Yacht-Master ",
+            "description": "A new jewel shines on the surface of the sea: for the first time, the Yacht-Master 42 is available in yellow gold – an inspired and original refinement to the emblematic sailing timepiece that in no way alters its course.",
+            "imageUrl": "https://content.rolex.com//dam/2022/upright-bba-with-shadow/m226658-0001.png?impolicy=v6-corners-bg&sc=0.24&cw=680&ch=760&vo=-14&bg=%23ffffff",
+            "price": 590,
+            "colorId": 1,
+            "brandId":1,
+            "categoryId":1
+          },
+          {
+            "id": 6,
+            "name": "Lady-DateJust ",
+            "description": "Its dial features a large VI set with diamonds. The light reflections on the case sides and lugs highlight the elegant profile of the 31 mm Oyster case, which is fitted with a diamond-set bezel. Aesthetically, the Datejust has spanned eras, while retaining the enduring codes that make it, notably in its traditional versions, one of the most recognized and recognizable of watches.",
+            "imageUrl": "https://content.rolex.com/dam/2022/upright-bba-with-shadow/m278289rbr-0019.png?impolicy=v6-upright&imwidth=420",
+            "price": 15,
+            "colorId": 2,
+            "brandId":1,
+            "categoryId":2
+          },
+          {
+            "id": 7,
+            "name": "Black Blaken Explorer ",
+            "description": "The additional arrow-shaped 24-hour hand of the Explorer II circles the dial once a day and is used in relation to the engraved fixed bezel.",
+            "imageUrl": "https://watchmydiamonds.com/media/catalog/product/cache/1/image/1280x/040ec09b1e35df139433887a97daa66f/S/t/Stainless_Steel_Black_Color_Roman_Numeral_Dial_6_5.jpg",
+            "price": 1000,
+            "colorId": 1,
+            "brandId":1,
+            "categoryId":1
+          }
+    ]
+    ,
+    "Categories":[
+        {"id":1,"name":"Men"},
+        {"id":2,"name":"Women"},
+        {"id":3,"name":"Both"}
+    ],
+    "Colors":[
+        {"id":1,"name":"Black"},
+        {"id":2,"name":"Silver"},
+        {"id":3,"name":"Cream"},
+        {"id":4,"name":"Gold"}
+    ],
+    "Brands":[
+        {"id":1,"name":"Rolex"},
+        {"id":2,"name":"Tissot"}
+    ]
+}

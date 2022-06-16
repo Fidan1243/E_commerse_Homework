@@ -1,0 +1,18 @@
+<h2 class="m-3">Category</h2>
+<div class="list-group m-3">
+    <a
+    [routerLink]="['/watch']"  
+      (click)="selectCategory()"
+      [class.active]="displayAll"
+      class="list-group-item list-group-item-action"
+      >All Categories</a
+    >
+    <a
+      *ngFor="let item of categories"
+      [routerLink]="['/watch/category/',item.id]"  
+      (click)="selectCategory(item)"
+      [class.active]="!displayAll && selectedCategory?.id == item.id"
+      class="list-group-item list-group-item-action active"
+      >{{ item.name | titlecase }}</a
+    >
+  </div>
